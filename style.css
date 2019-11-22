@@ -25,9 +25,7 @@ article {
 }
 
 /* style unorderd list */
-ul {
-    list-style-type: none;
-}
+
   
 .category {
     font-size: 30px;
@@ -43,8 +41,15 @@ ul {
 .description {
     font-size: 18px;
 }
-.skill-set {
-    font-size:20px;
-    
+ul.skill-list {
+    list-style-type: none;
 }
+.skill-set {
+    font-size: 20px;
+}
+.job-date {
+    font-size: 20px;
+    color: darkgray;
+}
+
 
